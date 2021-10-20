@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alexm\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alexm\\.nuget\\packages"
+    ]
+  }
+}
