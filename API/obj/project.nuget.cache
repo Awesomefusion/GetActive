@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ehU+Av5Rcfstufrk145h3Nd6J4h3rt8bFlyJjZOoNbKKDGaHrNctSKGpPGoI7+7nxbbbJJc7+sAOvxZqqAIB5A==",
+  "dgSpecHash": "Y/mD8dmua3Jlk0Qt34o1qTLtJH2JGTQP1+7kxqLvK28x/+LSEis8ONlqweyrBco+5m4PBLZxjJ8ttf3nzPgMKg==",
   "success": true,
-  "projectFilePath": "C:\\Code\\C#\\GetActive\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexm\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Alexm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
@@ -52,7 +52,8 @@
     "C:\\Users\\Alexm\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.7.1\\system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
     "C:\\Users\\Alexm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\Alexm\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
-    "C:\\Users\\Alexm\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+    "C:\\Users\\Alexm\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alexm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
   ],
   "logs": []
 }

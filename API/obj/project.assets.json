@@ -1804,11 +1804,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\C#\\GetActive\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Code\\C#\\GetActive\\API\\API.csproj",
+      "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj",
       "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\C#\\GetActive\\API\\obj\\",
+      "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1823,8 +1823,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Code\\C#\\GetActive\\Application\\Application.csproj": {
-              "projectPath": "C:\\Code\\C#\\GetActive\\Application\\Application.csproj"
+            "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj"
             }
           }
         }
@@ -1878,6 +1878,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.13, 5.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -1886,7 +1892,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

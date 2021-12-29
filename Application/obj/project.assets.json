@@ -1229,11 +1229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code\\C#\\GetActive\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Code\\C#\\GetActive\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-      "outputPath": "C:\\Code\\C#\\GetActive\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1248,11 +1248,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Code\\C#\\GetActive\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Code\\C#\\GetActive\\Domain\\Domain.csproj"
+            "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj"
             },
-            "C:\\Code\\C#\\GetActive\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Code\\C#\\GetActive\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -1291,7 +1291,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
