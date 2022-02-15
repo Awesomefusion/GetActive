@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4fMv9/iaB7phzKh3C/Gzqa+A/keNc/U6Rlr3MI3qWEcy4Le1YLjxsvGkB7GXVcnHi+KmeEVWBsYr/NIY7aklwQ==",
+  "dgSpecHash": "BNFbfr5vSPvl4+HIyZ+rlb4SRX3qYFeaEnGMWf9sQg/8U6bIHgxhHCseVMNhQP1skWK7LsVYHhx/Gd9YpJBL7w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Code\\GetActive\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

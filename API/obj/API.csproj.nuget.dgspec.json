@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj": {}
+    "C:\\Code\\GetActive\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj": {
+    "C:\\Code\\GetActive\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj",
+        "projectUniqueName": "C:\\Code\\GetActive\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj",
+        "projectPath": "C:\\Code\\GetActive\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\obj\\",
+        "outputPath": "C:\\Code\\GetActive\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj"
+              "C:\\Code\\GetActive\\Application\\Application.csproj": {
+                "projectPath": "C:\\Code\\GetActive\\Application\\Application.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj": {
+    "C:\\Code\\GetActive\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Code\\GetActive\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\Application.csproj",
+        "projectPath": "C:\\Code\\GetActive\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Application\\obj\\",
+        "outputPath": "C:\\Code\\GetActive\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -121,11 +121,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj"
+              "C:\\Code\\GetActive\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Code\\GetActive\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj"
+              "C:\\Code\\GetActive\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Code\\GetActive\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -168,14 +168,14 @@
         }
       }
     },
-    "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj": {
+    "C:\\Code\\GetActive\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Code\\GetActive\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Code\\GetActive\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\obj\\",
+        "outputPath": "C:\\Code\\GetActive\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -220,14 +220,14 @@
         }
       }
     },
-    "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj": {
+    "C:\\Code\\GetActive\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Code\\GetActive\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Code\\GetActive\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Persistence\\obj\\",
+        "outputPath": "C:\\Code\\GetActive\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -242,8 +242,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj"
+              "C:\\Code\\GetActive\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Code\\GetActive\\Domain\\Domain.csproj"
               }
             }
           }

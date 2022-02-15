@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y/mD8dmua3Jlk0Qt34o1qTLtJH2JGTQP1+7kxqLvK28x/+LSEis8ONlqweyrBco+5m4PBLZxjJ8ttf3nzPgMKg==",
+  "dgSpecHash": "sxgpeZFXBRcipqzHxy8bylHdEf1nOSSOcnnOyIe++bzlQlIt6Ule9fqvnRS8zBoixcM3BylbTYQAFLDjG2zc8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\API\\API.csproj",
+  "projectFilePath": "C:\\Code\\GetActive\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexm\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Alexm\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

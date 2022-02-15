@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Code\\GetActive\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Code\\GetActive\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alexm\\Documents\\Code\\GetActive\\Domain\\obj\\",
+      "outputPath": "C:\\Code\\GetActive\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alexm\\AppData\\Roaming\\NuGet\\NuGet.Config"
