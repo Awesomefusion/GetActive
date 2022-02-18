@@ -3,6 +3,7 @@ import React, { useEffect } from 'react';
 import { Grid, List } from 'semantic-ui-react';
 import LoadingComponent from '../../../layout/LoadingComponent';
 import { useStore } from '../../../stores/store';
+import ActivityFilters from './ActivityFilters';
 import ActivityList from './ActivityList';
 
 export default observer(function ActivityDashboard() {
@@ -24,7 +25,7 @@ export default observer(function ActivityDashboard() {
                 </List>
             </Grid.Column>
             <Grid.Column width='6'>
-                <h2>Activity Filters</h2>
+                <ActivityFilters/>
             </Grid.Column>
         </Grid>
     )
