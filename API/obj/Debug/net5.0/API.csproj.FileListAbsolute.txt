@@ -222,4 +222,3 @@ C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.dll
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.pdb
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\Code\GetActive\API\bin\Debug\net5.0\API.StaticWebAssets.xml
