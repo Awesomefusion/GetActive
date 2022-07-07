@@ -5,7 +5,6 @@ C:\Code\GetActive\API\bin\Debug\net5.0\API.deps.json
 C:\Code\GetActive\API\bin\Debug\net5.0\API.runtimeconfig.json
 C:\Code\GetActive\API\bin\Debug\net5.0\API.runtimeconfig.dev.json
 C:\Code\GetActive\API\bin\Debug\net5.0\API.dll
-C:\Code\GetActive\API\bin\Debug\net5.0\ref\API.dll
 C:\Code\GetActive\API\bin\Debug\net5.0\API.pdb
 C:\Code\GetActive\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Code\GetActive\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
@@ -222,3 +221,4 @@ C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.dll
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.pdb
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.genruntimeconfig.cache
+C:\Code\GetActive\API\obj\Debug\net5.0\refint\API.dll

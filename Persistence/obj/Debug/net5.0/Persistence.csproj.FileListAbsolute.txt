@@ -1,6 +1,5 @@
 C:\Code\GetActive\Persistence\bin\Debug\net5.0\Persistence.deps.json
 C:\Code\GetActive\Persistence\bin\Debug\net5.0\Persistence.dll
-C:\Code\GetActive\Persistence\bin\Debug\net5.0\ref\Persistence.dll
 C:\Code\GetActive\Persistence\bin\Debug\net5.0\Persistence.pdb
 C:\Code\GetActive\Persistence\bin\Debug\net5.0\Domain.dll
 C:\Code\GetActive\Persistence\bin\Debug\net5.0\Domain.pdb
@@ -43,3 +42,4 @@ C:\Users\Alexm\Documents\Code\GetActive\Persistence\obj\Debug\net5.0\Persistence
 C:\Users\Alexm\Documents\Code\GetActive\Persistence\obj\Debug\net5.0\Persistence.dll
 C:\Users\Alexm\Documents\Code\GetActive\Persistence\obj\Debug\net5.0\ref\Persistence.dll
 C:\Users\Alexm\Documents\Code\GetActive\Persistence\obj\Debug\net5.0\Persistence.pdb
+C:\Code\GetActive\Persistence\obj\Debug\net5.0\refint\Persistence.dll

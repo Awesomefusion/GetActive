@@ -1,6 +1,5 @@
 C:\Code\GetActive\Application\bin\Debug\net5.0\Application.deps.json
 C:\Code\GetActive\Application\bin\Debug\net5.0\Application.dll
-C:\Code\GetActive\Application\bin\Debug\net5.0\ref\Application.dll
 C:\Code\GetActive\Application\bin\Debug\net5.0\Application.pdb
 C:\Code\GetActive\Application\bin\Debug\net5.0\Domain.dll
 C:\Code\GetActive\Application\bin\Debug\net5.0\Persistence.dll
@@ -49,3 +48,4 @@ C:\Users\Alexm\Documents\Code\GetActive\Application\obj\Debug\net5.0\Application
 C:\Users\Alexm\Documents\Code\GetActive\Application\obj\Debug\net5.0\Application.dll
 C:\Users\Alexm\Documents\Code\GetActive\Application\obj\Debug\net5.0\ref\Application.dll
 C:\Users\Alexm\Documents\Code\GetActive\Application\obj\Debug\net5.0\Application.pdb
+C:\Code\GetActive\Application\obj\Debug\net5.0\refint\Application.dll

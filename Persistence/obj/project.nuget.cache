@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/Xpl2H7rjVUNIH4l6P9nNuhLUITsNaohkMD+z3TKXClJpdrBxccnXUj5ZIuAxd38hZf4g+94mya+MfG8KGZEQQ==",
+  "dgSpecHash": "9pQpIszLHvdt/pQn6+nUveVcxunJSaHoFT1d0w4MqU1Fsa4BUoAHUCLAeeBpCf7mGQT0xMk6c6nuyNVWG3KNIg==",
   "success": true,
   "projectFilePath": "C:\\Code\\GetActive\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
@@ -29,7 +29,10 @@
     "C:\\Users\\Alexm\\.nuget\\packages\\system.collections.immutable\\5.0.0\\system.collections.immutable.5.0.0.nupkg.sha512",
     "C:\\Users\\Alexm\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Alexm\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512",
-    "C:\\Users\\Alexm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+    "C:\\Users\\Alexm\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\Alexm\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alexm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Alexm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

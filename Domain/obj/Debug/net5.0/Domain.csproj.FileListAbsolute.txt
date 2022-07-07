@@ -1,6 +1,5 @@
 C:\Code\GetActive\Domain\bin\Debug\net5.0\Domain.deps.json
 C:\Code\GetActive\Domain\bin\Debug\net5.0\Domain.dll
-C:\Code\GetActive\Domain\bin\Debug\net5.0\ref\Domain.dll
 C:\Code\GetActive\Domain\bin\Debug\net5.0\Domain.pdb
 C:\Code\GetActive\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Code\GetActive\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
@@ -34,3 +33,4 @@ C:\Users\Alexm\Documents\Code\GetActive\Domain\obj\Debug\net5.0\Domain.csproj.Co
 C:\Users\Alexm\Documents\Code\GetActive\Domain\obj\Debug\net5.0\Domain.dll
 C:\Users\Alexm\Documents\Code\GetActive\Domain\obj\Debug\net5.0\ref\Domain.dll
 C:\Users\Alexm\Documents\Code\GetActive\Domain\obj\Debug\net5.0\Domain.pdb
+C:\Code\GetActive\Domain\obj\Debug\net5.0\refint\Domain.dll
