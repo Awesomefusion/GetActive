@@ -1326,11 +1326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Code\\GetActive\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Code\\GetActive\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Code\\GetActive\\Application\\Application.csproj",
+      "projectPath": "C:\\Code\\GetActive\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Alexm\\.nuget\\packages\\",
-      "outputPath": "c:\\Code\\GetActive\\Application\\obj\\",
+      "outputPath": "C:\\Code\\GetActive\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1344,17 +1344,18 @@
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Code\\GetActive\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Code\\GetActive\\Domain\\Domain.csproj"
+            "C:\\Code\\GetActive\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Code\\GetActive\\Domain\\Domain.csproj"
             },
-            "c:\\Code\\GetActive\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Code\\GetActive\\Persistence\\Persistence.csproj"
+            "C:\\Code\\GetActive\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Code\\GetActive\\Persistence\\Persistence.csproj"
             }
           }
         }

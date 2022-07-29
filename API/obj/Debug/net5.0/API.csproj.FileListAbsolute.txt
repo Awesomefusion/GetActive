@@ -222,3 +222,6 @@ C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.pdb
 C:\Users\Alexm\Documents\Code\GetActive\API\obj\Debug\net5.0\API.genruntimeconfig.cache
 C:\Code\GetActive\API\obj\Debug\net5.0\refint\API.dll
+C:\Code\GetActive\API\bin\Debug\net5.0\FluentValidation.dll
+C:\Code\GetActive\API\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+C:\Code\GetActive\API\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
